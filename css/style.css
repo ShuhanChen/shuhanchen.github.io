@@ -4862,7 +4862,7 @@ height:100%;
 	-webkit-box-shadow:  0px 0px 3px 0px rgba(0, 0, 0, 0.1);
 	box-shadow:  0px 0px 3px 0px rgba(0, 0, 0, 0.1);
 	float: left;
-	height: 100px;
+	height: 90px;
 	width: 10px;
 
 	
@@ -4875,7 +4875,7 @@ height:100%;
 .blog_postcontent .image_frame  .paper  img {
 	
 	float: left;
-	height: 100px;
+	height: 90px;
 	width: 10px;
 	border: 7px solid #fff;
 	-webkit-box-shadow:  0px 0px 3px 0px rgba(0, 0, 0, 0.1);
